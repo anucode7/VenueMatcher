@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TabApp": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
