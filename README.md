@@ -1,4 +1,4 @@
-# VenueMatcher - A strategy to match
+# VenueMatcher 
 
 ## Design details
 
